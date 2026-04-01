@@ -11,5 +11,8 @@ ABAP Core [010000]
     ├── System Variables [010203]
     ├── String Operations [010204]
     └── String Comparison [010205]
-    
 ```
+
+## Wiki
+
+Detailed references are maintained in the [📖 Wiki - ABAP KB](https://github.com/iankitsinghk/general-practise-log/wiki).
