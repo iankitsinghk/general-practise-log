@@ -15,4 +15,4 @@ ABAP Core [010000]
 
 ## Wiki
 
-Detailed references are maintained in the [📖 Wiki - ABAP KB](https://github.com/iankitsinghk/general-practise-log/wiki).
+Detailed references are maintained : [Wiki - ABAP KB ↗](https://github.com/iankitsinghk/general-practise-log/wiki)
