@@ -10,7 +10,9 @@ ABAP Core [010000]
     ├── Conditional Statements and Loops [010202]
     ├── System Variables [010203]
     ├── String Operations [010204]
-    └── String Comparison [010205]
+    ├── String Comparison [010205]
+    ├── Internal Table & Work Area Basics [010206]
+    └── Internal Table Operations [010207]
 ```
 
 ## Wiki
