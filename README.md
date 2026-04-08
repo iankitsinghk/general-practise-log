@@ -13,8 +13,8 @@ ABAP Core [010000]
     ├── String Comparison [010205]
     ├── Internal Table & Work Area Basics [010206]
     ├── Internal Table Operations [010207]
-    ├──
-    ├──
+    ├── Types of Internal Table | 010208
+    ├── Internal Table & Header Line | 010209
     ├──
     └── 
 ```
