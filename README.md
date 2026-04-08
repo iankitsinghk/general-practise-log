@@ -19,6 +19,13 @@ ABAP Core [010000]
     └── Classical Reports | 010211
 ```
 
+## Structure
+```
+Technical Repository [100000]
+└── Fundamentals [100100]
+    └── Open SQL | 100101
+```
+
 ## Wiki
 
 Detailed references are maintained : [Wiki - ABAP KB ↗](https://github.com/iankitsinghk/general-practise-log/wiki)
