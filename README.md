@@ -1,7 +1,7 @@
 # general-practise-log
 General hands-on practise log for abap.
 
-## Structure
+## ABAP Core
 ```
 ABAP Core [010000]
 ├── ABAP Dictionary [010100]
