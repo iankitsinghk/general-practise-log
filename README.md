@@ -19,7 +19,7 @@ ABAP Core [010000]
     └── Classical Reports | 010211
 ```
 
-## Structure
+## Technical Repository
 ```
 Technical Repository [100000]
 └── Fundamentals [100100]
