@@ -1,5 +1,5 @@
 # general-practise-log
-General hands-on practise log [ABAP].
+General hands-on practise log for ABAP.
 
 ## ABAP Core
 ```
